@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1741359659 source:c:\users\usuario\desktop\kf\clase_act_07march_kf\clase_act_07march_kf.c
+	<stdio.h>
+	<stdlib.h>
+	"atm.h"
+
+1741359659 c:\users\usuario\desktop\kf\clase_act_07march_kf\atm.h
+
